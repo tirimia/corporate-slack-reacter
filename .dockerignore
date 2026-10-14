@@ -1,0 +1,12 @@
+.git
+.cursor
+node_modules
+test
+coverage
+dist
+assets
+out
+.env
+.env.*
+.envrc
+*.md
